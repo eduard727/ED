@@ -1,0 +1,25 @@
+button{
+    margin: 10px;
+    padding: 5px;
+    background-color: #141430;
+    box-shadow: 5px 5px 20px #141430;
+    border: px;
+}
+
+.close{
+    background-color: #f0f8ff;
+    border-radius: 6px;
+}
+
+#miniimg{
+    height: 120px;
+    width: 120px;
+}
+#bigimg{
+    max-height: 500px;
+    max-width: 100%;
+}
+
+p{
+    color: #343434;
+}

@@ -1,0 +1,16 @@
+
+h1,h2,h3{
+    color: #141430;
+}
+
+#galleryJobs{
+    text-shadow: 1px 1px 3px #141430;
+}
+
+#articuloTexto{
+    padding-top: 20px;
+    padding-bottom: 22px;
+    max-width: 736px;
+    min-height: fit-content;
+    margin-bottom: 0px;
+}
