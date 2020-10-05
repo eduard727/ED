@@ -24,7 +24,6 @@
               "src/assets"
             ],
             "styles": [
-
               "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
@@ -94,7 +93,6 @@
               "src/assets"
             ],
             "styles": [
-
               "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
@@ -129,8 +127,13 @@
               "devServerTarget": "Edu:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "Edu"
 }
