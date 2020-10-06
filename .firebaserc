@@ -2,7 +2,7 @@
   "targets": {
     "miwebpersonaled": {
       "hosting": {
-        "Edu": [
+        "Ed": [
           "miwebpersonaled"
         ]
       }

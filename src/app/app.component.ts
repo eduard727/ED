@@ -8,6 +8,6 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Eduardo';
+  title = 'ed';
   faCoffee = faCoffee;
 }

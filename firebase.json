@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "Edu",
+      "target": "Ed",
       "public": "dist/",
       "ignore": [
         "**/.*"
